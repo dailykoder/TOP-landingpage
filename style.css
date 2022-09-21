@@ -160,7 +160,7 @@ ul {
     background-color: #222;
 }
 
-.cta-wrap > a {
+.cta-wrap > div > a {
     color: white;
     border: 1px solid white;
     margin-top: 50px;
